@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Procfile" type="Native" />
+      <mapping pattern="ali" type="PLAIN_TEXT" />
       <mapping ext="vsdx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
